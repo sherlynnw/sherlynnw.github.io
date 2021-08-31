@@ -3,10 +3,12 @@ Sher Lynn is a Technology Consulting Analyst within Accenture Applied Intelligen
 Prior to tech, Sher Lynn had past experiences in pro-bono construction management in Sabah, Malaysian Borneo, civil engineering consultancy, graphic/web design  and event-planning.
 
 **Programming:** Python, SQL, MATLAB, Excel VBA
+
 **Visualisation Tools:** Tableau, Power BI
+
 **Big Data / Cloud Tools:** Azure ML Studio, Azure DevOps, Apache Hadoop, Apache Hive, PySpark, Azure Databricks
 
-Click on the links below to view details of my project portfolio
+Click on the links below to view details of my past projects.
 
 |                           |                                     |                                   |                           |                           |
 |:--------------------------|:------------------------------------|:----------------------------------|:--------------------------|:--------------------------|
