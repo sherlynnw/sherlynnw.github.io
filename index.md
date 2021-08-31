@@ -1,6 +1,15 @@
+|                           |                                     |                                   |                           |                           |
+|:--------------------------|:------------------------------------|:----------------------------------|:--------------------------|:--------------------------|
+| [Work](./professional/)   | [Undergraduate](./undergraduate/)   | [Volunteering](./volunteering/)   | [Certifications & Awards](./certifications/)| [Publications](./publications/)   |
+
 Sher Lynn is a Technology Consulting Analyst within Accenture Applied Intelligence. She has experience in Data Science & Machine Learning Engineering, CI/CD implementation and Data Architecture across various industries including telecommunications, consumer packaged goods, research and non-profit. She has also recently started gaining interest in Ethical and Responsible AI. 
 
 Prior to tech, Sher Lynn had past experiences in pro-bono construction management in Sabah, Malaysian Borneo, civil engineering consultancy, graphic/web design  and event-planning.
+
+
+Click on the links above to view details of my past projects.
+
+## Skills
 
 **Programming:** Python, SQL, MATLAB, Excel VBA
 
@@ -8,11 +17,7 @@ Prior to tech, Sher Lynn had past experiences in pro-bono construction managemen
 
 **Big Data / Cloud Tools:** Azure ML Studio, Azure DevOps, Apache Hadoop, Apache Hive, PySpark, Azure Databricks
 
-Click on the links below to view details of my past projects.
-
-|                           |                                     |                                   |                           |                           |
-|:--------------------------|:------------------------------------|:----------------------------------|:--------------------------|:--------------------------|
-| [Work](./professional/)   | [Undergraduate](./undergraduate/)   | [Volunteering](./volunteering/)   | [Certifications](./certifications/)| [Articles](./articles/)   |
+**Design Tools:** Adobe Photoshop, Adobe Illustrator
 
 
 ## General Resume
@@ -23,15 +28,15 @@ _January 2020 - Current_
 London, United Kingdom
 * * *
 **Client Delivery Experience**
-* [Lead Machine Learning Engineering Developer, Telecommunications]()
-* [Data Architect, Telecommunications]()
-* [Data Scientist, Climate Change Research]()
-* [DevOps Lead, Consumer Packaged Goods]()
+* [Lead Machine Learning Engineering Developer, Telecommunications](./professional/cmjo)
+* [Data Architect, Telecommunications](./professional/cmjo)
+* [Data Scientist, Climate Change Research](./professional/cloudwars)
+* [DevOps Lead, Consumer Packaged Goods](./professional/handel)
 
 **Internal Roles, Responsibilities and Achievements**
 * Accenture Applied Intelligence and Analyst Liaison
 * Co-lead of Coding Club
-* Winner of UK & Ireland Data Science Practice Hackathon - led a team of 5 to develop a Natural Language Processing solution in Python to automate entity matching for Clinical Meta Data
+* Winner of UK & Ireland Data Science Practice Hackathon - led a team of 5 to develop a Natural Language Processing solution in Python to automate entity matching for Clinical Meta Data. Click [here] (./professional/hohohackathon) for more details on the Hackathon.
 
 * * *
 ### Undergraduate Researcher at Centre for Transport Studies, Imperial College London
