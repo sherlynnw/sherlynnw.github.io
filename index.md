@@ -1,4 +1,12 @@
-Sher Lynn is a Technology Consulting Analyst within Accenture Applied Intelligence. She has experience in Data Science & Machine Learning Engineering, CI/CD implementation and Data Architecture across various industries including telecommunications, consumer packaged goods, research and non-profit. She has also recently started gaining interest in Ethical and Responsible AI. Prior to tech, Sher Lynn had past experiences in pro-bono construction management in Sabah (Malaysian Borneo), civil engineering consultancy, graphic/web design (Adobe Illustrator, Photoshop, Dreamweaver) and event-planning.
+Sher Lynn is a Technology Consulting Analyst within Accenture Applied Intelligence. She has experience in Data Science & Machine Learning Engineering, CI/CD implementation and Data Architecture across various industries including telecommunications, consumer packaged goods, research and non-profit. She has also recently started gaining interest in Ethical and Responsible AI. 
+
+Prior to tech, Sher Lynn had past experiences in pro-bono construction management in Sabah, Malaysian Borneo, civil engineering consultancy, graphic/web design  and event-planning.
+
+**Programming:** Python, SQL, MATLAB, Excel VBA
+**Visualisation Tools:** Tableau, Power BI
+**Big Data / Cloud Tools:** Azure ML Studio, Azure DevOps, Apache Hadoop, Apache Hive, PySpark, Azure Databricks
+
+Click on the links below to view details of my project portfolio
 
 |                           |                                     |                                   |                           |                           |
 |:--------------------------|:------------------------------------|:----------------------------------|:--------------------------|:--------------------------|
@@ -22,6 +30,14 @@ London, United Kingdom
 * Accenture Applied Intelligence and Analyst Liaison
 * Co-lead of Coding Club
 * Winner of UK & Ireland Data Science Practice Hackathon - led a team of 5 to develop a Natural Language Processing solution in Python to automate entity matching for Clinical Meta Data
+
+* * *
+### Undergraduate Researcher at Centre for Transport Studies, Imperial College London
+_February 2019 - June 2019_
+
+London, United Kingdom
+* * *
+* Completed final year project entitled ‘Spatial and temporal prediction of urban air quality using big data’ by implementing Machine Learning and Deep Learning (i.e. XGBoost and ConvLSTM) using Python
 
 * * *
 ### Civil Engineering Intern at BuroHappold Engineering
