@@ -1,6 +1,6 @@
 |                           |                                     |                                   |                           |                           |
 |:--------------------------|:------------------------------------|:----------------------------------|:--------------------------|:--------------------------|
-| [Work](../professional/)   | [Undergraduate](../undergraduate/)   | [Volunteering](../volunteering/)   | [Certifications & Awards](../certifications/)| [Publications](../publications/)   |
+| [Home](../)               | [Work](../professional/)            | [Undergraduate](../undergraduate/)| [Volunteering](../volunteering/)  | [Certifications & Awards](../certifications/)|
 
 ### MLOps for Marketing
 #MLOps #XGBoost #Spark #Hive #FeatureStore #ChurnPrediction #NextBestAction
