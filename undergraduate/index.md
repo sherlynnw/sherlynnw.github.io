@@ -1,6 +1,6 @@
 |                           |                                     |                                   |                           |                           |
 |:--------------------------|:------------------------------------|:----------------------------------|:--------------------------|:--------------------------|
-| [Work](../professional/)   | [Undergraduate](../undergraduate/)   | [Volunteering](../volunteering/)   | [Certifications & Awards](../certifications/)| [Publications](../publications/)   |
+| [Home](../)               | [Work](../professional/)            | [Undergraduate](../undergraduate/)| [Volunteering](../volunteering/)  | [Certifications & Awards](../certifications/)|
 
 ### Predicting PM2.5 Readings using Spatiotemporal variables
 
