@@ -38,7 +38,7 @@ London, United Kingdom
 **Internal Roles, Responsibilities and Achievements**
 * Accenture Applied Intelligence and Analyst Liaison
 * Co-lead of Coding Club
-* Winner of UK & Ireland Data Science Practice Hackathon - led a team of 5 to develop a Natural Language Processing solution in Python to automate entity matching for Clinical Meta Data. Click [here](./professional/hohohackathon) for more details on the Hackathon.
+* Winner of UK & Ireland Data Science Practice Hackathon - led a team of 5 to develop a Natural Language Processing solution in Python to automate entity matching for Clinical Meta Data. Click [here](./professional/natural-language-processing-fasttext) for more details on the Hackathon.
 
 * * *
 ### Undergraduate Researcher at Centre for Transport Studies, Imperial College London
