@@ -5,4 +5,15 @@ Sher Lynn is a Technology Consulting Analyst within Accenture Applied Intelligen
 |                           |                                     |                                   |                           |
 
 ### Technology Consulting (Analytics) Analyst at Accenture Applied Intelligence
+#### _January 2020 - Current_
 #### London, United Kingdom
+* * *
+**Client Delivery Experience**
+* [Lead Developer & Machine Learning Engineer]()
+* [Data Architect]()
+* [Data Scientist]()
+* [DevOps Lead]()
+
+**Internal Roles and Initiatives**
+* Accenture Applied Intelligence and Analyst Liaison
+* Co-lead of Coding Club
