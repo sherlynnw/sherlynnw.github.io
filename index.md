@@ -9,6 +9,8 @@ Prior to tech, Sher Lynn had past experiences in pro-bono construction managemen
 
 Click on the links above to view details of my past projects.
 
+* * *
+
 ## Skills
 
 **Programming:** Python, SQL, MATLAB, Excel VBA
@@ -19,6 +21,7 @@ Click on the links above to view details of my past projects.
 
 **Design Tools:** Adobe Photoshop, Adobe Illustrator
 
+* * *
 
 ## General Resume
 
