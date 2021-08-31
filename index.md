@@ -24,6 +24,8 @@ Click on the links above to view details of her past projects.
 * * *
 
 ## General Resume
+[Click here to download a PDF version](https://github.com/sherlynn-wong/sherlynn-wong.github.io/files/7084596/cv-website.pdf)
+
 
 ### Technology Consulting (Analytics) Analyst at Accenture Applied Intelligence
 _January 2020 - Current_
