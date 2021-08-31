@@ -7,7 +7,7 @@ Sher Lynn is a Technology Consulting Analyst within Accenture Applied Intelligen
 Prior to tech, Sher Lynn had past experiences in pro-bono construction management in Sabah, Malaysian Borneo, civil engineering consultancy, graphic/web design  and event-planning.
 
 
-Click on the links above to view details of my past projects.
+Click on the links above to view details of her past projects.
 
 * * *
 
