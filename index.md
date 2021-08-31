@@ -1,6 +1,6 @@
 |                           |                                     |                                   |                           |                           |
 |:--------------------------|:------------------------------------|:----------------------------------|:--------------------------|:--------------------------|
-| [Home](./)                | [Work](./professional/)   | [Undergraduate](./undergraduate/)   | [Volunteering](./volunteering/)   | [Certifications & Awards](./certifications/)|
+| [Home]()                | [Work](./professional/)   | [Undergraduate](./undergraduate/)   | [Volunteering](./volunteering/)   | [Certifications & Awards](./certifications/)|
 
 Sher Lynn is a Technology Consulting Analyst within Accenture Applied Intelligence. She has experience in Data Science & Machine Learning Engineering, CI/CD implementation and Data Architecture across various industries including telecommunications, consumer packaged goods, research and non-profit. She has also recently started gaining interest in Ethical and Responsible AI. 
 
