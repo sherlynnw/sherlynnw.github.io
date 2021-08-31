@@ -26,7 +26,7 @@ Click on the links above to view details of my past projects.
 _January 2020 - Current_
 
 London, United Kingdom
-* * *
+
 **Client Delivery Experience**
 * [Lead Machine Learning Engineering Developer, Telecommunications](./professional/cmjo)
 * [Data Architect, Telecommunications](./professional/cmjo)
@@ -43,7 +43,7 @@ London, United Kingdom
 _February 2019 - June 2019_
 
 London, United Kingdom
-* * *
+
 * Completed final year project entitled ‘Spatial and temporal prediction of urban air quality using big data’ by implementing Machine Learning and Deep Learning (i.e. XGBoost and ConvLSTM) using Python
 
 * * *
@@ -51,7 +51,7 @@ London, United Kingdom
 _August 2018 - September 2018_
 
 London, United Kingdom
-* * *
+
 * Designed data collection and processing methods to assess the pavement, footway and cycle track conditions of a 129-hectare site and created an interactive report to summarise processed data
 * Modelled and analysed a Potable Water Network across a 129-hectare site from scratch and proposed preliminary solutions which were well-received by the client and senior management
 
@@ -60,7 +60,9 @@ London, United Kingdom
 _October 2017 - September 2018_
 
 London, United Kingdom
-* * *
+
 * Managed the construction of a kindergarten in rural Borneo which was completed within 5 weeks and within the planned budget.
 * Secured £10,000 in grant and sponsorship for the project from professional bodies
 * Made logistical arrangements such as transport, accommodation and weekend activities for 21 volunteers 
+
+* * *
