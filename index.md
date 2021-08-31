@@ -18,6 +18,7 @@ Click on the links above to view details of her past projects.
 * **Visualisation Tools:** Tableau, Power BI
 * **Big Data / Cloud Tools:** Azure ML Studio, Azure DevOps, Apache Hadoop, Apache Hive, PySpark, Azure Databricks
 * **Design Tools:** Adobe Photoshop, Adobe Illustrator
+* **Soft Skills:** Solid communication, stakeholder management, requirements-gathering
 
 * * *
 
