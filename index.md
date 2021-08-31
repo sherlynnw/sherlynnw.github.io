@@ -21,7 +21,7 @@ Click on the links above to view details of my past projects.
 
 
 ## General Resume
-* * *
+
 ### Technology Consulting (Analytics) Analyst at Accenture Applied Intelligence
 _January 2020 - Current_
 
