@@ -6,26 +6,22 @@ Sher Lynn is a Technology Consulting Analyst within Accenture Applied Intelligen
 
 Prior to tech, Sher Lynn had past experiences in pro-bono construction management in Sabah, Malaysian Borneo, civil engineering consultancy, graphic/web design  and event-planning.
 
-
 Click on the links above to view details of her past projects.
+
+[Click here](https://github.com/sherlynn-wong/sherlynn-wong.github.io/files/7084596/cv-website.pdf) to download a PDF version of her CV/Resume.
 
 * * *
 
 ## Skills
 
-**Programming:** Python, SQL, MATLAB, Excel VBA
-
-**Visualisation Tools:** Tableau, Power BI
-
-**Big Data / Cloud Tools:** Azure ML Studio, Azure DevOps, Apache Hadoop, Apache Hive, PySpark, Azure Databricks
-
-**Design Tools:** Adobe Photoshop, Adobe Illustrator
+* **Programming:** Python, SQL, MATLAB, Excel VBA
+* **Visualisation Tools:** Tableau, Power BI
+* **Big Data / Cloud Tools:** Azure ML Studio, Azure DevOps, Apache Hadoop, Apache Hive, PySpark, Azure Databricks
+* **Design Tools:** Adobe Photoshop, Adobe Illustrator
 
 * * *
 
-## General Resume
-[Click here to download a PDF version](https://github.com/sherlynn-wong/sherlynn-wong.github.io/files/7084596/cv-website.pdf)
-
+## Past Experiences
 
 ### Technology Consulting (Analytics) Analyst at Accenture Applied Intelligence
 _January 2020 - Current_
