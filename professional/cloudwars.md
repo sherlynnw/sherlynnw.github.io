@@ -1,3 +1,3 @@
 |                           |                                     |                                   |                           |                           |
 |:--------------------------|:------------------------------------|:----------------------------------|:--------------------------|:--------------------------|
-| [Work](../professional/)   | [Undergraduate](../undergraduate/)   | [Volunteering](../volunteering/)   | [Certifications & Awards](../certifications/)| [Publications](../publications/)   |
+| [Home](../)               | [Work](../professional/)            | [Undergraduate](../undergraduate/)| [Volunteering](../volunteering/)  | [Certifications & Awards](../certifications/)|
