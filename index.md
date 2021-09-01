@@ -68,3 +68,14 @@ London, United Kingdom
 * Made logistical arrangements such as transport, accommodation and weekend activities for 21 volunteers 
 
 * * *
+
+## Education
+
+### MEng Civil Engineering, Imperial College London
+
+1st Class Honours
+
+_2015 - 2019_
+
+* Relevant Modules: Operations Research and Systems Optimisation, Computational Methods, Mathematics, Statistics
+* Completed a final year project by implementing Machine Learning algorithms to predict air quality
