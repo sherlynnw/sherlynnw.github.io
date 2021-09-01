@@ -3,13 +3,12 @@
 | [Home](../)               | [Work](../professional/)            | [Undergraduate](../undergraduate/)| [Volunteering](../volunteering/)  | [Certifications & Awards](../certifications/)|
 
 ### MLOps for Marketing
-#MLOps #XGBoost #Spark #Hive #FeatureStore #ChurnPrediction #NextBestAction
 
 **Area:** Data Science, Machine Learning Engineering, Machine Learning Operations, Data Architecture, Data Engineering
 
 **Industry:** Telecommunications
 
-**Domain Knowledge:** Personalised Marketing
+**Domain Knowledge:** Personalised Marketing, Churn Prediction, Next Best Action
 
 **Programming Language:** Python
 
@@ -22,9 +21,8 @@
 
 * * *
 ### Identifying Thaw Slumps with Sentinel-2 and ArcticDEM data using Azure ML Studio and Azure's Custom Vision
-#DataScience #MachineLearning #ComputerVision
 
-**Area:** Data Science, Computer Vision
+**Area:** Data Science, Computer Vision, Machine Learning
 
 **Industry:** Research
 
@@ -40,8 +38,7 @@
 [Read more...](./cloudwars3)
 
 * * *
-### Entity Matching for Clinical Metadata
-#DataScience #MachineLearning #NLP
+### Entity Matching for Clinical Metadat
 
 **Area:** Data Science, Machine Learning, Natural Language Processing
 
@@ -58,7 +55,6 @@
 
 * * *
 ### Environmental Tweet Clustering/Classification
-#DataScience #MachineLearning #NLP
 
 **Area:** Data Science, Machine Learning, Natural Language Processing
 
