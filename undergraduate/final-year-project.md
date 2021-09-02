@@ -6,8 +6,7 @@
 
 This was my first ever Python project with no prior knowledge. The repository is accessible upon request.
 
-[T11 - Sher Lynn Wong - Poster.pdf](https://github.com/sherlynn-wong/sherlynn-wong.github.io/files/7095173/T11.-.Sher.Lynn.Wong.-.Poster.pdf)
-
+<embed src="https://github.com/sherlynn-wong/sherlynn-wong.github.io/files/7095173/T11.-.Sher.Lynn.Wong.-.Poster.pdf" width="500" height="750" type="application/pdf">
 
 #### Reflection / Hindsight
 
