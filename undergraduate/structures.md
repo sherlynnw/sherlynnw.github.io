@@ -1,3 +1,7 @@
+|                           |                                     |                                   |                           |                           |
+|:--------------------------|:------------------------------------|:----------------------------------|:--------------------------|:--------------------------|
+| [Home](../)               | [Work](../professional/)            | [Undergraduate](../undergraduate/)| [Volunteering](../volunteering/)  | [Certifications & Awards](../certifications/)|
+
 ## Modelling and Optimising Sway Structures
 
 In this assignment, a multi-storey and multi-bay truss and frames were modelled using MATLAB to understand the stability and failure mechanism when subjected to horizontal forces.
