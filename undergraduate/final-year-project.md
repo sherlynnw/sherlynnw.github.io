@@ -10,6 +10,6 @@ In this research, a spatial and temporal machine learning framework was implemen
 
 <embed src="https://github.com/sherlynn-wong/sherlynn-wong.github.io/blob/main/assets/docs/fyp-poster.pdf" width="500" height="750" type="application/pdf">
 
-#### Reflection / Hindsight
+#### REFLECTION / HINDSIGHT
 
 Coming soon...
