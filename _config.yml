@@ -10,6 +10,7 @@ linkedin_username: sher-lynn-wong
 header_pages:
   - index.md
   - test.md
-  
+  - _professional/index.md
+
 include:
     - professional
