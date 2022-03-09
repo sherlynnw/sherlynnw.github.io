@@ -1,13 +1,7 @@
-theme: jekyll-theme-minimal
+theme: minima
 title: Sher Lynn Wong (She/Her)
 description: Hi there! I'm Sher Lynn, a self-taught Data Science & Machine Learning Engineer based in London. I have delivered multiple projects through the Software Development Lifecycle and have worked with technical and non-technical stakeholders. I am a self-starter and work best in fast-paced environments.
 logo: /assets/logo/profile.png
-navigation:
-  - title: Home
-    url: /
-  - title: Work
-    url: professional
-  - title: Education
-    url: undergraduate
-  - title: Volunteering
-    url: volunteering
+header_pages:
+  - index.md
+  - professional/index.md
