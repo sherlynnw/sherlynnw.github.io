@@ -1,6 +1,4 @@
-|                           |                                     |                                   |                           |                           |
-|:--------------------------|:------------------------------------|:----------------------------------|:--------------------------|:--------------------------|
-| [Home](../)               | [Work](../professional/)            | [Undergraduate](../undergraduate/)| [Volunteering](../volunteering/)  | [Certifications & Awards](../certifications/)|
+# Work
 
 ### MLOps for Marketing
 
@@ -66,4 +64,3 @@
 
 
 [Read more...](./cloudwars)
-
