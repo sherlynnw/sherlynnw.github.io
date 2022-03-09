@@ -4,7 +4,7 @@ description: Hi there! I'm Sher Lynn, a self-taught Data Science & Machine Learn
 logo: /assets/logo/profile.png
 header_pages:
   - index.md
-  - professional/index.md
-  - undergraduate/index.md
-  - volunteering/index.md
-  - certifications/index.md
+  - /professional/index.md
+  - /undergraduate/index.md
+  - /volunteering/index.md
+  - /certifications/index.md
