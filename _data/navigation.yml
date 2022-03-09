@@ -1,0 +1,13 @@
+# Belongs at: /_data/navigation.yml
+
+- title: Home
+  url: /
+
+- title: Work
+  url: /professional/
+- title: Education
+  url: /undergraduate/
+- title: Volunteering
+  url: /volunteering/
+- title: Certification
+  url: /certifications/
