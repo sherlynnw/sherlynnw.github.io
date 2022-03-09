@@ -13,4 +13,4 @@ header_pages:
   - _professional/index.md
 
 include:
-    - professional
+  - _professional
