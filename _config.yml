@@ -1,7 +1,7 @@
 theme: minima
-title: Sher Lynn
+title: Sher Lynn's blog
 description: A platform where I publish my thoughts, reflection and engage with others.
-# author: "Sher Lynn Wong"
+author: "Sher Lynn Wong"
 logo: /assets/logo/profile.png
 
 titles_from_headings:

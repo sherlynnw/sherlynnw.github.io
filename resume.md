@@ -5,8 +5,11 @@ description:
 ---
 
 <p align="center">
-<img src="/assets/logo/profile.png|width=100px" width="100">
+<img src="/assets/logo/profile.png|width=100px" width="250">
 </p>
+
+## <center>Sher Lynn Wong</center>
+<center>*Machine Leaning Engineer @ Faculty*</center>
 
 Sher Lynn is a Machine Learning Engineer at Faculty (formerly ASI Data Science). Prior to this, Sher Lynn spent two years at Accenture Applied Intelligence. She has experience in Data Science & Machine Learning Engineering, CI/CD implementation and Data Architecture across various industries including telecommunications, consumer packaged goods, research and non-profit.
 
