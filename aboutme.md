@@ -1,3 +1,5 @@
+# About Me
+
 Sher Lynn is a Machine Learning Engineer at Faculty (formerly ASI Data Science). Prior to this, Sher Lynn spent two years at Accenture Applied Intelligence. She has experience in Data Science & Machine Learning Engineering, CI/CD implementation and Data Architecture across various industries including telecommunications, consumer packaged goods, research and non-profit.
 
 Prior to tech, Sher Lynn had past experiences in pro-bono construction management in Sabah, Malaysian Borneo, civil engineering consultancy, graphic/web design  and event-planning.
