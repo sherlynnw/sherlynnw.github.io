@@ -1,15 +1,19 @@
 theme: minima
-title: My blog
-description: My very nice blog
-author: "Sher Lynn Wong"
+title: Sher Lynn
+description: A platform where I publish my thoughts, reflection and engage with others.
+# author: "Sher Lynn Wong"
 logo: /assets/logo/profile.png
+
+titles_from_headings:
+  strip_title: true
 
 github_username: sherlynnw
 linkedin_username: sher-lynn-wong
 
 header_pages:
   - index.md
-  - aboutme.md
-  - professional.md
-  - undergraduate.md
-  - volunteering.md
+  - resume.md
+  - mentorship.md
+  - blog_home.md
+
+show_excerpts: false

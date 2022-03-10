@@ -2,4 +2,4 @@
 <img src="/assets/logo/profile.png|width=100px" width="100">
 </p>
 
-Hi there! I'm Sher Lynn, a Machine Learning Engineer based in London. I have delivered multiple projects through the Software Development Lifecycle alongside technical and non-technical stakeholders. I am a self-starter and work best in fast-paced environments.
+Hi there! I'm Sher Lynn, a client-facing Machine Learning Engineer born and raised in Malaysia, currently based in London. I graduated from Imperial College London with an MEng in Civil Engineering and have worked in the Technology field since January 2020. With my less-than-conventional career path into Machine Learning Engineering, I hope to be able to shed some light on the endless career possibilities within the technology industry to young women, ethnic minorities and the underpriviledged.

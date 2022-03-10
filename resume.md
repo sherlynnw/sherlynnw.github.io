@@ -1,4 +1,12 @@
-# About Me
+---
+layout: page
+title: Resume
+description:
+---
+
+<p align="center">
+<img src="/assets/logo/profile.png|width=100px" width="100">
+</p>
 
 Sher Lynn is a Machine Learning Engineer at Faculty (formerly ASI Data Science). Prior to this, Sher Lynn spent two years at Accenture Applied Intelligence. She has experience in Data Science & Machine Learning Engineering, CI/CD implementation and Data Architecture across various industries including telecommunications, consumer packaged goods, research and non-profit.
 
@@ -6,7 +14,6 @@ Prior to tech, Sher Lynn had past experiences in pro-bono construction managemen
 
 Click on the links above to view details of her past projects.
 
-[Click here](https://github.com/sherlynn-wong/sherlynn-wong.github.io/files/7084596/cv-website.pdf) to download a PDF version of her CV/Resume.
 
 * * *
 
