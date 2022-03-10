@@ -14,6 +14,6 @@ header_pages:
   - index.md
   - resume.md
   - mentorship.md
-  - blog_home.md
+  # - blog_home.md
 
 show_excerpts: false
