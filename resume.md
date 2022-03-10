@@ -5,7 +5,7 @@ description:
 ---
 
 <p align="center">
-<img src="./assets/logo/profile.png|width=100px" width="250">
+<img src="../assets/logo/profile.png|width=100px" width="250">
 </p>
 
 ## <center>Sher Lynn Wong</center>
