@@ -2,7 +2,6 @@ theme: minima
 title: My blog
 description: My very nice blog
 author: "Sher Lynn Wong"
-# description: Hi there! I'm Sher Lynn, a self-taught Data Science & Machine Learning Engineer based in London. I have delivered multiple projects through the Software Development Lifecycle and have worked with technical and non-technical stakeholders. I am a self-starter and work best in fast-paced environments.
 logo: /assets/logo/profile.png
 
 github_username: sherlynnw
@@ -10,7 +9,7 @@ linkedin_username: sher-lynn-wong
 
 header_pages:
   - index.md
+  - aboutme.md
   - professional.md
   - undergraduate.md
   - volunteering.md
-
