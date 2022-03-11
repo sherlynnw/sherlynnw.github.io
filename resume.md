@@ -3,9 +3,10 @@ layout: page
 title: Resume
 description:
 ---
+*Disclaimer: All opinions are my own and do not reflect the position of my employer.*
 
 <p align="center">
-<img src="../assets/logo/profile.png" width="250">
+<img src="../assets/logo/profile.png" width="200">
 </p>
 
 ## <center>Sher Lynn Wong</center>
