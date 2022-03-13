@@ -3,71 +3,106 @@ layout: page
 title: Resume
 description:
 ---
-*Disclaimer: All opinions are my own and do not reflect the position of my employer.*
 
 <p align="center">
 <img src="../assets/logo/profile.png" width="200">
 </p>
 
 ## <center>Sher Lynn Wong</center>
-*<center>Machine Learning Engineer @ Faculty</center>*
+*<center>Machine Learning Engineer @ Faculty, Health and Life Sciences</center>*
 
-Sher Lynn is a Machine Learning Engineer at Faculty (formerly ASI Data Science). Prior to this, Sher Lynn spent two years at Accenture Applied Intelligence. She has experience in Data Science & Machine Learning Engineering, CI/CD implementation and Data Architecture across various industries including telecommunications, consumer packaged goods, research and non-profit.
+Sher Lynn is a self-starter, a versatile client-facing Machine Learning Engineer with strong technical skills backed by her commercial acumen and communication skills. Within 2 years as a Technology Consulting Analyst, Sher Lynn gained experience in Data Science, Machine Learning Engineering, DevOps and Data Architecture. From this experience, Sher Lynn also gained commercial understanding of functions within various industries including marketing in telecommunications, and R&D in consumer packaged goods.
 
-Prior to tech, Sher Lynn had past experiences in pro-bono construction management in Sabah, Malaysian Borneo, civil engineering consultancy, graphic/web design  and event-planning.
+Prior to tech, Sher Lynn had past experiences in pro-bono construction management in rural Borneo, civil engineering consultancy, graphic/web design and event-planning.
 
-Click on the links above to view details of her past projects.
+### <center> [Skills](#skills)&nbsp; &nbsp;|&nbsp; &nbsp;[Career](#career)&nbsp; &nbsp;|&nbsp; &nbsp;[Project Experience](#projects)&nbsp; &nbsp;|&nbsp; &nbsp;[Education](#education)&nbsp; &nbsp;</center>
+
+* * *
+
+## Skills {#skills}
+
+#### Soft Skills
+Written and verbal communication, stakeholder management, requirements-gathering, project management
+
+#### Programming
+Python, SQL, MATLAB, Excel VBA
+
+#### Tools
+Faculty Platform, Palantir Foundry, AWS Services, Azure (ML Studio, DevOps, Cognitive Services, Databricks), PostgreSQL, Apache Hadoop, Apache Hive, Apache Spark
+
+#### Visualisation Tools
+Plotly Dash, Tableau, Power BI
+
+#### Design Tools
+Adobe Photoshop, Adobe Illustrator
+
+* * *
+
+## Career {#career}
+
+### Faculty Science
+
+* #### Machine Learning Engineer
+
+  ##### *February 2022 - Present*
+  * Part of the Engineering Guild, working on projects within the Health and Life Science Business Unit
+
+### Accenture Applied Intelligence
+
+*See project experiences for more info on my client delivery experience*
+
+* #### Machine Learning Engineering Consultant
+
+  ##### *December 2021 - February 2022*
+
+  * Promoted from the ACG into the Machine Learning Engineering Practice, part of Applied Intelligence, Strategy & Consulting.
+
+* #### Technology Consulting Analyst - Analytics
+
+  ##### *December 2021 - February 2022*
+
+  * Part of the Analyst Consulting Group (ACG), aligned to Strategy & Consulting | Applied Intelligence
+  * Accenture Applied Intelligence and Analyst Liaison
+  * Co-lead of Coding Club
+  * Winner of UK & Ireland Data Science Practice Hackathon - led a team of 5 to develop a Natural Language Processing solution in Python to automate entity matching for Clinical Meta Data. Click [here](./professional/natural-language-processing-fasttext) for more details on the Hackathon.
+
+### BuroHappold Engineering
+
+* #### Infrastructure Engineering Intern
+
+  ##### *August 2018 - September 2018*
+
 
 
 * * *
 
-## Skills
+## Project Experiences {#projects}
 
-* **Programming:** Python, SQL, MATLAB, Excel VBA
-* **Visualisation Tools:** Tableau, Power BI
-* **Big Data / Cloud Tools:** Azure ML Studio, Azure DevOps, Apache Hadoop, Apache Hive, PySpark, Azure Databricks
-* **Design Tools:** Adobe Photoshop, Adobe Illustrator
-* **Soft Skills:** Solid communication, stakeholder management, requirements-gathering
+#### Lead Machine Learning Engineer, UK Telecommunications
+Accenture Applied Intelligence,
+_April 2021 - January 2022_
+*
+*
 
-* * *
 
-## Past Experiences
+#### Data Architect & Business Analyst, UK Telecommunications
+Accenture Applied Intelligence,
+_November 2020 - January 2022_
 
-### Technology Consulting (Analytics) Analyst at Accenture Applied Intelligence
-_January 2020 - Current_
+#### Data Scientist and Content Curator, Stockholm Environment Institute
+Accenture Applied Intelligence, _February 2021 - April 2021_
 
-London, United Kingdom
+#### DevOps Lead, Global Consumer Packaged Goods
 
-**Client Delivery Experience**
-* [Lead Machine Learning Engineering Developer, Telecommunications](./professional/cmjo)
-* [Data Architect, Telecommunications](./professional/cmjo)
-* [Data Scientist, Climate Change Research](./professional/cloudwars)
-* [DevOps Lead, Consumer Packaged Goods](./professional/handel)
-
-**Internal Roles, Responsibilities and Achievements**
-* Accenture Applied Intelligence and Analyst Liaison
-* Co-lead of Coding Club
-* Winner of UK & Ireland Data Science Practice Hackathon - led a team of 5 to develop a Natural Language Processing solution in Python to automate entity matching for Clinical Meta Data. Click [here](./professional/natural-language-processing-fasttext) for more details on the Hackathon.
-
-* * *
-### Undergraduate Researcher at Centre for Transport Studies, Imperial College London
-_February 2019 - June 2019_
+#### Undergraduate Researcher, Centre for Transport Studies
+Imperial College London, _February 2019 - June 2019_
 
 London, United Kingdom
 
 * Completed final year project entitled ‘Spatial and temporal prediction of urban air quality using big data’ by implementing Machine Learning and Deep Learning (i.e. XGBoost and ConvLSTM) using Python
 
-* * *
-### Civil Engineering Intern at BuroHappold Engineering
-_August 2018 - September 2018_
-
-London, United Kingdom
-
-* Designed data collection and processing methods to assess the pavement, footway and cycle track conditions of a 129-hectare site and created an interactive report to summarise processed data
-* Modelled and analysed a Potable Water Network across a 129-hectare site from scratch and proposed preliminary solutions which were well-received by the client and senior management
-
-* * *
-### Chairperson at Imperial College Union RED Project Borneo
+#### Project Manager, Construction of Kindergarten in Kampung Kuala Punteh
+Imperial College Union RED Project Borneo,
 _October 2017 - September 2018_
 
 London, United Kingdom
@@ -82,9 +117,7 @@ London, United Kingdom
 
 ### MEng Civil Engineering, Imperial College London
 
-1st Class Honours
-
-_2015 - 2019_
+1st Class Honours, _2015 - 2019_
 
 * Relevant Modules: Operations Research and Systems Optimisation, Computational Methods, Mathematics, Statistics
 * Completed a final year project by implementing Machine Learning algorithms to predict air quality
