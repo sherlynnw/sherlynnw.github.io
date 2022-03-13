@@ -8,18 +8,18 @@ description:
 <img src="../assets/logo/profile.png" width="200">
 </p>
 
-## <center>Sher Lynn Wong</center>
+### <center>Sher Lynn Wong</center>
 *<center>Machine Learning Engineer @ Faculty, Health and Life Sciences</center>*
 
 Sher Lynn is a self-starter, a versatile client-facing Machine Learning Engineer with strong technical skills backed by her commercial acumen and communication skills. Within 2 years as a Technology Consulting Analyst, Sher Lynn gained experience in Data Science, Machine Learning Engineering, DevOps and Data Architecture. From this experience, Sher Lynn also gained commercial understanding of functions within various industries including marketing in telecommunications, and R&D in consumer packaged goods.
 
 Prior to tech, Sher Lynn had past experiences in pro-bono construction management in rural Borneo, civil engineering consultancy, graphic/web design and event-planning.
 
-### <center> <a href="#skills-id">Skills</a> | <a href="#career-id">Career</a> | <a href="#projects-id">Project Experience</a> | <a href="#education-id">Education</a> </center>
+#### <center> <a href="#skills-id">Skills</a> | <a href="#career-id">Career</a> | <a href="#projects-id">Project Experience</a> | <a href="#education-id">Education</a> </center>
 
 * * *
 
-## Skills {#skills-id}
+### Skills {#skills-id}
 
 #### Soft Skills
 Written and verbal communication, stakeholder management, requirements-gathering, project management
@@ -38,39 +38,39 @@ Adobe Photoshop, Adobe Illustrator
 
 * * *
 
-## Career {#career-id}
+### Career {#career-id}
 
-### Faculty Science
+#### Faculty Science
 
-* #### Machine Learning Engineer
+##### Machine Learning Engineer
 
-  ##### *February 2022 - Present*
-  * Part of the Engineering Guild, working on projects within the Health and Life Science Business Unit
+> ##### *February 2022 - Present*
+>  * Part of the Engineering Guild, working on projects within the Health and Life Science Business Unit
 
-### Accenture Applied Intelligence
+#### Accenture Applied Intelligence
 
 *See project experiences for more info on my client delivery experience*
 
-* #### Machine Learning Engineering Consultant
+##### Machine Learning Engineering Consultant
+>
+>  ##### *December 2021 - February 2022*
+>
+>  * Promoted from the ACG into the Machine Learning Engineering Practice, part of Strategy & Consulting, Applied Intelligence.
 
-  ##### *December 2021 - February 2022*
+#### Technology Consulting Analyst - Analytics
 
-  * Promoted from the ACG into the Machine Learning Engineering Practice, part of Applied Intelligence, Strategy & Consulting.
+>  ##### *December 2021 - February 2022*
+>
+>  * Part of the Analyst Consulting Group (ACG), aligned to Strategy & Consulting, Applied Intelligence
+>  * Accenture Applied Intelligence and Analyst Liaison
+>  * Co-lead of Coding Club
+>  * Winner of UK & Ireland Data Science Practice Hackathon - led a team of 5 to develop a Natural Language Processing solution in Python to automate entity matching for Clinical Meta Data. Click [here](./professional/natural-language-processing-fasttext) for more details on the Hackathon.
 
-* #### Technology Consulting Analyst - Analytics
+#### BuroHappold Engineering
 
-  ##### *December 2021 - February 2022*
+##### Infrastructure Engineering Intern
 
-  * Part of the Analyst Consulting Group (ACG), aligned to Strategy & Consulting, Applied Intelligence
-  * Accenture Applied Intelligence and Analyst Liaison
-  * Co-lead of Coding Club
-  * Winner of UK & Ireland Data Science Practice Hackathon - led a team of 5 to develop a Natural Language Processing solution in Python to automate entity matching for Clinical Meta Data. Click [here](./professional/natural-language-processing-fasttext) for more details on the Hackathon.
-
-### BuroHappold Engineering
-
-* #### Infrastructure Engineering Intern
-
-  ##### *August 2018 - September 2018*
+> ##### *August 2018 - September 2018*
 
 
 
