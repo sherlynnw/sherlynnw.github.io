@@ -142,15 +142,11 @@ Tech Stack: Azure DevOps (Azure Repos, Azure Pipelines, Git, Powershell, Azure W
 #### Undergraduate Researcher, Centre for Transport Studies
 Imperial College London, _February 2019 - June 2019_
 
-London, United Kingdom
-
 * Completed final year project entitled ‘Spatial and temporal prediction of urban air quality using big data’ by implementing Machine Learning and Deep Learning (i.e. XGBoost and ConvLSTM) using Python
 
 #### Project Manager, Construction of Kindergarten in Kampung Kuala Punteh
 Imperial College Union RED Project Borneo,
 _October 2017 - September 2018_
-
-London, United Kingdom
 
 * Managed the construction of a kindergarten in rural Borneo which was completed within 5 weeks and within the planned budget.
 * Secured £10,000 in grant and sponsorship for the project from professional bodies
