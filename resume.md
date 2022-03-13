@@ -139,17 +139,22 @@ Tech Stack: Azure DevOps (Azure Repos, Azure Pipelines, Git, Powershell, Azure W
 * Worked with internal developers across 3 countries to ensure application features were deployed in time for various stages of testing prior to go-live
 * Liaised with technical and non-technical stakeholders to propose solutions for code compliance, and resolve issues during go-live
 
-#### Undergraduate Researcher, Centre for Transport Studies
+#### **Undergraduate Researcher, Centre for Transport Studies**
 Imperial College London, _February 2019 - June 2019_
 
-* Completed final year project entitled ‘Spatial and temporal prediction of urban air quality using big data’ by implementing Machine Learning and Deep Learning (i.e. XGBoost and ConvLSTM) using Python
+* Completed final year project entitled ‘Spatial and temporal prediction of urban air quality using big data’
+* Utilised XGBoost to conduct spatial inferencing of granular PM2.5 concentrations based on sparse station readings
+* Utilised ConvLSTM, ensuring spatial and temporal considerations of features, to predict PM2.5 concentrations 1 hour in advanced
 
-#### Project Manager, Construction of Kindergarten in Kampung Kuala Punteh
+#### **Project Manager, Construction of Kindergarten in Kampung Kuala Punteh**
 Imperial College Union RED Project Borneo,
 _October 2017 - September 2018_
 
-* Managed the construction of a kindergarten in rural Borneo which was completed within 5 weeks and within the planned budget.
-* Secured £10,000 in grant and sponsorship for the project from professional bodies
+* Managed the construction of a 6 m x 9 m education centre in rural Borneo which was completed within 5 weeks and within the planned budget
+* Secured £10,000 in grant and sponsorship for the project
+* Managed the procurement and budgeting processes for the project, achieving considerable cost savings
+* Liaised with local suppliers and project partners to arrange transport of tools and construction materials to site
+* Incorporated circuit breakers into the solar panel systems to meet the local safety requirements
 * Made logistical arrangements such as transport, accommodation and weekend activities for 21 volunteers
 
 * * *
