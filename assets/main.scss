@@ -2,13 +2,19 @@
 ---
 
 @import "minima";
+/* Style the navigation menu */
+.navbar {
+    display: flex;
+    background-color: #555;
+    overflow: auto;
+  }
 
 /* Navigation links */
 .navbar a {
     float: none;
     display: inline-block;
     padding: 5px;
-    border-width: 1px;
+    border: ;
     border-top-style: 1px solid #424242;
     border-bottom-style: 1px solid #424242;
     text-decoration: none;
