@@ -7,15 +7,14 @@
     display: flex;
     background-color: #555;
     overflow: auto;
+    border-top-style: 1px solid #424242;
+    border-bottom-style: 1px solid #424242;
   }
 
 /* Navigation links */
 .navbar a {
     float: none;
     padding: 5px;
-    border: ;
-    border-top-style: 1px solid #424242;
-    border-bottom-style: 1px solid #424242;
     text-decoration: none;
     font-size: 17px;
     width: 25vw; /* Four equal-width links. If you have two links, use 50%, and 33.33% for three links, etc.. */

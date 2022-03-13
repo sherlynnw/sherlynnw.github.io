@@ -51,14 +51,15 @@ Adobe Photoshop, Adobe Illustrator
 ### Career {#career-id}
 
 * * *
-#### Faculty Science
+
+**#### Faculty Science**
 
 **Machine Learning Engineer**
 
 *February 2022 - Present*
 * Part of the Engineering Guild, working on projects within the Health and Life Science Business Unit
 
-#### Accenture Applied Intelligence
+**#### Accenture Applied Intelligence**
 
 *See project experiences for more info on my client delivery experience*
 
