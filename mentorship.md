@@ -20,7 +20,7 @@ description:
     <input type="checkbox" id="purpose5" name="purpose5" value="UK University Application">
     <label for="purpose5">UK University Application</label><br>
     <label for="message">I am...</label><br>
-    <textarea name="message" placeholder="a lawyer trying to move into Software Engineering...></textarea><br>
+    <textarea name="message" placeholder="a lawyer trying to move into Software Engineering..."></textarea><br>
     <input type="submit" value="Submit">
 </form>
 
