@@ -15,8 +15,12 @@ Sher Lynn is a self-starter, a versatile client-facing Machine Learning Engineer
 
 Prior to tech, Sher Lynn had past experiences in pro-bono construction management in rural Borneo, civil engineering consultancy, graphic/web design and event-planning.
 
-| <a href="#skills-id">Skills</a> | <a href="#career-id">Career</a> | <a href="#projects-id">Project Experience</a> | <a href="#education-id">Education</a> |
-
+<div class="scrollmenu">
+    <a href="#skills-id">Skills</a>
+    <a href="#career-id">Career</a>
+    <a href="#projects-id">Project Experience</a>
+    <a href="#education-id">Education</a>
+</div>
 
 * * *
 
