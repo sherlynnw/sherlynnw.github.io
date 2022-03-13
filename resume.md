@@ -52,14 +52,14 @@ Adobe Photoshop, Adobe Illustrator
 
 * * *
 
-**#### Faculty Science**
+#### **Faculty Science**
 
 **Machine Learning Engineer**
 
 *February 2022 - Present*
 * Part of the Engineering Guild, working on projects within the Health and Life Science Business Unit
 
-**#### Accenture Applied Intelligence**
+#### **Accenture Applied Intelligence**
 
 *See project experiences for more info on my client delivery experience*
 
@@ -77,7 +77,7 @@ Adobe Photoshop, Adobe Illustrator
 * Co-lead of Coding Club
 * Winner of UK & Ireland Data Science Practice Hackathon - led a team of 5 to develop a Natural Language Processing solution in Python to automate entity matching for Clinical Meta Data.
 
-#### BuroHappold Engineering
+#### **BuroHappold Engineering**
 
 **Infrastructure Engineering Intern**
 
