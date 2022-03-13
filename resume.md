@@ -45,12 +45,13 @@ Adobe Photoshop, Adobe Illustrator
 
 ### Career {#career-id}
 
+---
 #### Faculty Science
 
 **Machine Learning Engineer**
 
 *February 2022 - Present*
->  * Part of the Engineering Guild, working on projects within the Health and Life Science Business Unit
+* Part of the Engineering Guild, working on projects within the Health and Life Science Business Unit
 
 #### Accenture Applied Intelligence
 
@@ -60,16 +61,16 @@ Adobe Photoshop, Adobe Illustrator
 
 *December 2021 - February 2022*
 
->  * Promoted from the ACG into the Machine Learning Engineering Practice, part of Strategy & Consulting, Applied Intelligence.
+* Promoted from the ACG into the Machine Learning Engineering Practice, part of Strategy & Consulting, Applied Intelligence.
 
 **Technology Consulting Analyst - Analytics Graduate Programme**
 
 *January 2020 - November 2021*
 
->  * Part of the Analyst Consulting Group (ACG), aligned to Strategy & Consulting, Applied Intelligence
->  * Accenture Applied Intelligence and Analyst Liaison
->  * Co-lead of Coding Club
->  * Winner of UK & Ireland Data Science Practice Hackathon - led a team of 5 to develop a Natural Language Processing solution in Python to automate entity matching for Clinical Meta Data.
+* Part of the Analyst Consulting Group (ACG), aligned to Strategy & Consulting, Applied Intelligence
+* Accenture Applied Intelligence and Analyst Liaison
+* Co-lead of Coding Club
+* Winner of UK & Ireland Data Science Practice Hackathon - led a team of 5 to develop a Natural Language Processing solution in Python to automate entity matching for Clinical Meta Data.
 
 #### BuroHappold Engineering
 
