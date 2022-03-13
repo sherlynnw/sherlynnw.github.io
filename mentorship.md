@@ -8,8 +8,8 @@ description:
     <input type="text" id="name" placeholder="name"><br>
     <label for="email">Email:</label><br>
     <input type="text" id="email" placeholder="email"><br>
-    <input type="checkbox" id="purpose1" name="purpose1" value="CV Tips and Reviews"><br>
     I would like to book a session for:
+    <input type="checkbox" id="purpose1" name="purpose1" value="CV Tips and Reviews"><br>
     <label for="purpose1">CV Tips and Review</label><br>
     <input type="checkbox" id="purpose2" name="purpose2" value="Interview Tips">
     <label for="purpose2">Job Interview Tips</label><br>
@@ -19,8 +19,8 @@ description:
     <label for="purpose4">General Career Tips</label><br>
     <input type="checkbox" id="purpose5" name="purpose5" value="UK University Application">
     <label for="purpose5">UK University Application</label><br>
-    <label for="message">Short introduction of yourself:</label><br>
-    <textarea name="message"></textarea><br>
+    <label for="message">I am...</label><br>
+    <textarea name="message" placeholder="a lawyer trying to move into Software Engineering...></textarea><br>
     <input type="submit" value="Submit">
 </form>
 
