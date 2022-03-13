@@ -8,8 +8,8 @@
     float: none;
     display: inline-block;
     padding: 5px;
-    border-width: 0.1px;
-    border-color: #000;
+    border-width: 1px;
+    border-color: #424242;
     text-decoration: none;
     font-size: 15px;
     width: 15vw; /* Four equal-width links. If you have two links, use 50%, and 33.33% for three links, etc.. */
@@ -19,6 +19,7 @@
 /* Add a background color on mouse-over */
 .navbar a:hover {
     background-color: #000;
+    font-co
 }
 
 /* Add responsiveness - on screens less than 500px, make the navigation links appear on top of each other, instead of next to each other */
