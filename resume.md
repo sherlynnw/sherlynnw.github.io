@@ -17,6 +17,7 @@ Prior to tech, Sher Lynn had past experiences in pro-bono construction managemen
 
 <center> <a href="#skills-id">Skills</a> | <a href="#career-id">Career</a> | <a href="#projects-id">Project Experience</a> | <a href="#education-id">Education</a> </center>
 
+
 * * *
 
 ### Skills {#skills-id}
@@ -44,7 +45,7 @@ Adobe Photoshop, Adobe Illustrator
 
 **Machine Learning Engineer**
 
-> *February 2022 - Present*
+*February 2022 - Present*
 >  * Part of the Engineering Guild, working on projects within the Health and Life Science Business Unit
 
 #### Accenture Applied Intelligence
@@ -52,15 +53,15 @@ Adobe Photoshop, Adobe Illustrator
 *See project experiences for more info on my client delivery experience*
 
 **Machine Learning Engineering Consultant**
->
-> *December 2021 - February 2022*
->
+
+*December 2021 - February 2022*
+
 >  * Promoted from the ACG into the Machine Learning Engineering Practice, part of Strategy & Consulting, Applied Intelligence.
 
 **Technology Consulting Analyst - Analytics**
 
->  *December 2021 - February 2022*
->
+*December 2021 - February 2022*
+
 >  * Part of the Analyst Consulting Group (ACG), aligned to Strategy & Consulting, Applied Intelligence
 >  * Accenture Applied Intelligence and Analyst Liaison
 >  * Co-lead of Coding Club
@@ -113,11 +114,16 @@ London, United Kingdom
 
 * * *
 
-## Education {#education-id}
+### Education {#education-id}
 
-### MEng Civil Engineering, Imperial College London
+#### MEng Civil Engineering, Imperial College London
 
 1st Class Honours, _2015 - 2019_
 
-* Relevant Modules: Operations Research and Systems Optimisation, Computational Methods, Mathematics, Statistics
-* Completed a final year project by implementing Machine Learning algorithms to predict air quality
+#### Taylor's College Sri Hartamas
+
+A\*A\*A\*A, _2014 - 2015_
+
+#### Cempaka Damansara Heights
+
+IGCSE 8A* 3A, _Class of 2013_
