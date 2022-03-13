@@ -59,7 +59,7 @@ Adobe Photoshop, Adobe Illustrator
 **Machine Learning Engineer**
 
 *February 2022 - Present*
-* Part of the Engineering Guild, working on projects within the Health and Life Science Business Unit
+* Part of the Engineering Guild, primarily working on projects within the Health and Life Science Business Unit
 
 #### **Accenture Applied Intelligence**
 
@@ -93,6 +93,7 @@ Adobe Photoshop, Adobe Illustrator
 #### **Lead Machine Learning Engineer, UK Telecommunications**
 Accenture Applied Intelligence,
 _April 2021 - January 2022_
+
 This project focused on migrating the Machine Learning models built in the client's old Teradata system for marketing use cases, ensuring it is orchestrated in batches in the new Enterprised Data Hub (EDH) powered by open source tools.
 
 Tech Stack: Python, PySpark, Apache Spark, Apache Hive, Apache Hadoop, Azure DevOps, Control-M, Bash scripting
@@ -107,6 +108,7 @@ Tech Stack: Python, PySpark, Apache Spark, Apache Hive, Apache Hadoop, Azure Dev
 #### **Data Architect & Business Analyst, UK Telecommunications**
 Accenture Applied Intelligence,
 _November 2020 - January 2022_
+
 This project was part of a larger programme to migrate an existing Teradata system to an Enterprised Data Hub powered by open source tools. The project focused on designing Batch pipelines to enable the client to personalise marketing campaigns and orchestrate customer journeys.
 
 Tech Stack: Apache Hive (HiveQL - similar to SQL), Apache Hadoop, Data Analytics Studio, MS Excel
@@ -117,6 +119,7 @@ Tech Stack: Apache Hive (HiveQL - similar to SQL), Apache Hadoop, Data Analytics
 
 #### **Data Scientist and Content Curator, Stockholm Environment Institute**
 Accenture Applied Intelligence, _February 2021 - April 2021_
+
 This was a voluntary initiative to help SEI develop a tool capable of identifying melting permafrost in the Arctic regions, utilising Azure Cloud offerings.
 
 Tech Stack: Python, Azure ML Studio, Custom Vision, Azure DevOps, Azure App Services, Wordpress, Azure Blob Storage
@@ -127,6 +130,7 @@ Tech Stack: Python, Azure ML Studio, Custom Vision, Azure DevOps, Azure App Serv
 
 #### **DevOps Lead, Global Consumer Packaged Goods**
 Accenture Applied Intelligence, _February 2020 - October 2020_
+
 With no prior experience & knowledge in DevOps and the Software Development Lifecycle, I took ownership of customising a DevOps solution for the unique set of tools and delivery strategy (Waterfall-Agile) that are specific to the project.
 
 Tech Stack: Azure DevOps (Azure Repos, Azure Pipelines, Git, Powershell, Azure Wiki API), Excel VBA, 3DExperience Materials Compliance
