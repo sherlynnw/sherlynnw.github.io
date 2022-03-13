@@ -21,19 +21,19 @@ Prior to tech, Sher Lynn had past experiences in pro-bono construction managemen
 
 ### Skills {#skills-id}
 
-#### Soft Skills
+**Soft Skills**
 Written and verbal communication, stakeholder management, requirements-gathering, project management
 
-#### Programming
+**Programming**
 Python, SQL, MATLAB, Excel VBA
 
-#### Tools
+**Tools**
 Faculty Platform, Palantir Foundry, AWS Services, Azure (ML Studio, DevOps, Cognitive Services, Databricks), PostgreSQL, Apache Hadoop, Apache Hive, Apache Spark
 
-#### Visualisation Tools
+**Visualisation Tools**
 Plotly Dash, Tableau, Power BI
 
-#### Design Tools
+**Design Tools**
 Adobe Photoshop, Adobe Illustrator
 
 * * *
@@ -42,24 +42,24 @@ Adobe Photoshop, Adobe Illustrator
 
 #### Faculty Science
 
-##### Machine Learning Engineer
+**Machine Learning Engineer**
 
-> ##### *February 2022 - Present*
+> *February 2022 - Present*
 >  * Part of the Engineering Guild, working on projects within the Health and Life Science Business Unit
 
 #### Accenture Applied Intelligence
 
 *See project experiences for more info on my client delivery experience*
 
-##### Machine Learning Engineering Consultant
+**Machine Learning Engineering Consultant**
 >
->  ##### *December 2021 - February 2022*
+> *December 2021 - February 2022*
 >
 >  * Promoted from the ACG into the Machine Learning Engineering Practice, part of Strategy & Consulting, Applied Intelligence.
 
-#### Technology Consulting Analyst - Analytics
+**Technology Consulting Analyst - Analytics**
 
->  ##### *December 2021 - February 2022*
+>  *December 2021 - February 2022*
 >
 >  * Part of the Analyst Consulting Group (ACG), aligned to Strategy & Consulting, Applied Intelligence
 >  * Accenture Applied Intelligence and Analyst Liaison
@@ -68,9 +68,9 @@ Adobe Photoshop, Adobe Illustrator
 
 #### BuroHappold Engineering
 
-##### Infrastructure Engineering Intern
+*Infrastructure Engineering Intern*
 
-> ##### *August 2018 - September 2018*
+> *August 2018 - September 2018*
 
 
 
