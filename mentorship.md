@@ -9,7 +9,7 @@ description:
     <label for="email">Email:</label><br>
     <input type="text" id="email" placeholder="email"><br>
     I would like to book a session for: <br>
-    <input type="checkbox" id="purpose1" name="purpose1" value="CV Tips and Reviews"><br>
+    <input type="checkbox" id="purpose1" name="purpose1" value="CV Tips and Reviews">
     <label for="purpose1">CV Tips and Review</label><br>
     <input type="checkbox" id="purpose2" name="purpose2" value="Interview Tips">
     <label for="purpose2">Job Interview Tips</label><br>
