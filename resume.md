@@ -26,6 +26,7 @@ Prior to tech, Sher Lynn had past experiences in pro-bono construction managemen
     <a href="#education-id">Education</a>
 </div>
 
+
 * * *
 
 ### Skills {#skills-id}
