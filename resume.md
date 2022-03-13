@@ -11,6 +11,10 @@ description:
 ### <center>Sher Lynn Wong</center>
 *<center>Machine Learning Engineer @ Faculty, Health and Life Sciences</center>*
 
+* * *
+### Summary
+* * *
+
 Sher Lynn is a self-starter, a versatile client-facing Machine Learning Engineer with strong technical skills backed by her commercial acumen and communication skills. Within 2 years as a Technology Consulting Analyst, Sher Lynn gained experience in Data Science, Machine Learning Engineering, DevOps and Data Architecture. From this experience, Sher Lynn also gained commercial understanding of functions within various industries including marketing in telecommunications, and R&D in consumer packaged goods.
 
 Prior to tech, Sher Lynn had past experiences in pro-bono construction management in rural Borneo, civil engineering consultancy, graphic/web design and event-planning.
@@ -25,7 +29,7 @@ Prior to tech, Sher Lynn had past experiences in pro-bono construction managemen
 * * *
 
 ### Skills {#skills-id}
-
+* * *
 **Soft Skills**
 Written and verbal communication, stakeholder management, requirements-gathering, project management
 
@@ -45,7 +49,7 @@ Adobe Photoshop, Adobe Illustrator
 
 ### Career {#career-id}
 
----
+* * *
 #### Faculty Science
 
 **Machine Learning Engineer**
@@ -83,7 +87,7 @@ Adobe Photoshop, Adobe Illustrator
 * * *
 
 ## Project Experiences {#projects-id}
-
+* * *
 #### Lead Machine Learning Engineer, UK Telecommunications
 Accenture Applied Intelligence,
 _April 2021 - January 2022_
@@ -120,7 +124,7 @@ London, United Kingdom
 * * *
 
 ### Education {#education-id}
-
+* * *
 #### MEng Civil Engineering, Imperial College London
 
 1st Class Honours, _2015 - 2019_
