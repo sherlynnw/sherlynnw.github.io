@@ -61,8 +61,6 @@ Adobe Photoshop, Adobe Illustrator
 
 #### **Accenture Applied Intelligence**
 
-*See project experiences for more info on my client delivery experience*
-
 **Machine Learning Engineering Consultant**
 
 *December 2021 - February 2022*
