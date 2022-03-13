@@ -15,11 +15,11 @@ Sher Lynn is a self-starter, a versatile client-facing Machine Learning Engineer
 
 Prior to tech, Sher Lynn had past experiences in pro-bono construction management in rural Borneo, civil engineering consultancy, graphic/web design and event-planning.
 
-### <center> [Skills](#skills)&nbsp; &nbsp;|&nbsp; &nbsp;[Career](#career)&nbsp; &nbsp;|&nbsp; &nbsp;[Project Experience](#projects)&nbsp; &nbsp;|&nbsp; &nbsp;[Education](#education)&nbsp; &nbsp;</center>
+### <center> [Skills](.#skills-id) | [Career](.#career-id) | [Project Experience](.#projects-id) | [Education](.#education-id) </center>
 
 * * *
 
-## Skills {#skills}
+## Skills {#skills-id}
 
 #### Soft Skills
 Written and verbal communication, stakeholder management, requirements-gathering, project management
@@ -38,7 +38,7 @@ Adobe Photoshop, Adobe Illustrator
 
 * * *
 
-## Career {#career}
+## Career {#career-id}
 
 ### Faculty Science
 
@@ -61,7 +61,7 @@ Adobe Photoshop, Adobe Illustrator
 
   ##### *December 2021 - February 2022*
 
-  * Part of the Analyst Consulting Group (ACG), aligned to Strategy & Consulting | Applied Intelligence
+  * Part of the Analyst Consulting Group (ACG), aligned to Strategy & Consulting, Applied Intelligence
   * Accenture Applied Intelligence and Analyst Liaison
   * Co-lead of Coding Club
   * Winner of UK & Ireland Data Science Practice Hackathon - led a team of 5 to develop a Natural Language Processing solution in Python to automate entity matching for Clinical Meta Data. Click [here](./professional/natural-language-processing-fasttext) for more details on the Hackathon.
@@ -76,7 +76,7 @@ Adobe Photoshop, Adobe Illustrator
 
 * * *
 
-## Project Experiences {#projects}
+## Project Experiences {#projects-id}
 
 #### Lead Machine Learning Engineer, UK Telecommunications
 Accenture Applied Intelligence,
@@ -113,7 +113,7 @@ London, United Kingdom
 
 * * *
 
-## Education
+## Education {#education-id}
 
 ### MEng Civil Engineering, Imperial College London
 
