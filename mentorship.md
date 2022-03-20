@@ -4,11 +4,8 @@ title: Mentorship
 description:
 ---
 
-## Instructions
-
-
-
-
+This is a free, informal, pilot mentorship programme. Fill in the form and I will get in contact you within a week for an initial meeting.
+<br>
 <form action="https://getform.io/f/f8ac91a2-5c11-4eef-8083-b6810c348ee4" method="POST">
     <label for="name">Name:</label><br>
     <input type="text" id="name" name="name"><br><br>
