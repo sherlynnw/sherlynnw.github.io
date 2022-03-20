@@ -75,7 +75,7 @@ Adobe Photoshop, Adobe Illustrator
 * Part of the Analyst Consulting Group (ACG), aligned to Strategy & Consulting, Applied Intelligence
 * Accenture Applied Intelligence and Analyst Liaison
 * Co-lead of Coding Club
-* Winner of UK & Ireland Data Science Practice Hackathon - led a team of 5 to develop a Natural Language Processing solution in Python to automate entity matching for Clinical Meta Data.
+* Winner of a Hackathon where led a team of 5 to develop a Natural Language Processing solution in Python to automate entity matching for Clinical Meta Data.
 
 #### **BuroHappold Engineering**
 
@@ -103,7 +103,6 @@ Tech Stack: Python, PySpark, Apache Spark, Apache Hive, Apache Hadoop, Azure Dev
 * Designed a PySpark framework that simplifies a complex data engineering pipeline which generates a Feature Store of over 160 features
 * Led and mentored a team of 5 developers by providing technical guidance and steer
 * Led technical client engagements with senior data scientists to gather and formalise requirements
-
 
 #### **Data Architect & Business Analyst, UK Telecommunications**
 Accenture Applied Intelligence,
