@@ -20,7 +20,7 @@ This is a free, informal, pilot mentorship programme. Fill in the form and I wil
         <option value="UK University Application">UK University Application</option>
     </select><br><br>
     <label for="message">I am...</label><br>
-    <textarea name="message" placeholder="a lawyer trying to move into Software Engineering... (Help me get to know you better!" rows="5" cols="50"></textarea><br><br>
+    <textarea name="message" placeholder="a lawyer trying to move into Software Engineering... (In short, help me get to know you better!)" rows="5" cols="50"></textarea><br><br>
     <button type="submit" value="Submit">Submit</button><br><br>
 </form>
 
