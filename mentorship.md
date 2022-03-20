@@ -6,7 +6,7 @@ description:
 <form action="https://getform.io/f/f8ac91a2-5c11-4eef-8083-b6810c348ee4" method="POST">
     <label for="name">Name:</label><br>
     <input type="text" id="name" name="name"><br><br>
-    <label for="email">Email:</label><br><br>
+    <label for="email">Email:</label><br>
     <input type="text" id="email" name="email"><br><br>
     I would like to book a session for: <br>
     <select name="purpose" multiple>
