@@ -6,8 +6,6 @@ description:
 <form>
     <label for="name">Name:</label><br>
     <input type="text" id="name" placeholder="name"><br>
-    <label for="email">Email:</label><br>
-    <input type="text" id="email" placeholder="email"><br>
     I would like to book a session for: <br>
     <input type="checkbox" id="purpose1" name="purpose1" value="CV Tips and Reviews">
     <label for="purpose1">CV Tips and Review</label><br>
