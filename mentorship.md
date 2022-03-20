@@ -9,7 +9,7 @@ description:
     <label for="email">Email:</label><br><br>
     <input type="text" id="email" name="email"><br><br>
     I would like to book a session for: <br>
-    <select multiple="" name="purpose">
+    <select name="purpose" multiple>
         <option value="CV Tips and Reviews">CV Tips and Reviews</option>
         <option value="Interview Tips">Job Interview Tips</option>
         <option value="Portfolio/CV Building for Technical Roles">Portfolio/CV Building for Technical Roles</option>
