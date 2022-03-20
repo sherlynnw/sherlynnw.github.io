@@ -165,10 +165,10 @@ _October 2017 - September 2018_
 
 1st Class Honours, _2015 - 2019_
 
-#### **Taylor's College Sri Hartamas**
+#### **Taylor's College Sri Hartamas, Kuala Lumpur, Malaysia**
 
 A\*A\*A\*A, _2014 - 2015_
 
-#### **Cempaka Damansara Heights**
+#### **Cempaka Damansara Heights, Kuala Lumpur, Malaysia**
 
 IGCSE 8A* 3A, _Class of 2013_
