@@ -108,7 +108,7 @@ Tech Stack: Python, PySpark, Apache Spark, Apache Hive, Apache Hadoop, Azure Dev
 Accenture Applied Intelligence,
 _November 2020 - January 2022_
 
-This project was part of a larger programme to migrate an existing Teradata system to an Enterprised Data Hub powered by open source tools. The project focused on designing Batch pipelines to enable the client to personalise marketing campaigns and orchestrate customer journeys.
+This project was part of a larger programme to migrate an existing Teradata system to an Enterprise Data Hub powered by open source tools. The project focused on designing Batch pipelines to enable the client to personalise marketing campaigns and orchestrate customer journeys.
 
 Tech Stack: Apache Hive (HiveQL - similar to SQL), Apache Hadoop, Data Analytics Studio, MS Excel
 
